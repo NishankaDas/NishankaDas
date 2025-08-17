@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishankaDas
 - 👀 I’m interested in Quantum Compuiting & Graph Theory 
-- 🌱 I’m currently learning Quantum Machine Learning
+- 🌱 I’m currently learning Quantum Random Walks
 - 📫 How to reach me nishanka.das.rkmvcc@gmail.com
 
 
