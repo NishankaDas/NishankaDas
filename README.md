@@ -6,13 +6,6 @@
 - 😎 Hobby includes clicking and drawing pictures.
 
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NishankaDas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishankaDas&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <!---
 NishankaDas/NishankaDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
