@@ -3,7 +3,7 @@
   
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Aspiring+Researcher;Quantum+Algorithms;Quantum+Walks;Graph+Theory" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Aspiring+Researcher;Quantum+Algorithms+&+Quantum+Walks;Graph+Theory" alt="Typing SVG" />
 </p>
 
 ---
